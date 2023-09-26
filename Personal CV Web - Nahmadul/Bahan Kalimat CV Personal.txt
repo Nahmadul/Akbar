@@ -1,0 +1,60 @@
+#HERO SECTION:
+
+Saya Nahmadul Akbar, seorang mahasiswa dari Akademi Teknik Informatika Tunas Bangsa, yang bersemangat dalam bidang Frontend Development. Saya adalah pelajar tekno-kreatif yang siap untuk merajut kode-kode menjadi pengalaman digital yang memukau. Dalam setiap garis kode, saya temukan kesempatan untuk memadukan fungsi dan estetika, menciptakan antarmuka yang tak hanya menarik, tetapi juga memikat hati pengguna.
+
+I am Nahmadul Akbar, i am student from the Tunas Bangsa Informatics Engineering Academy, who is passionate about Frontend Development. I am a techno-creative ready to weave codes into captivating digital experiences. In every line of code, I find an opportunity to blend functionality and aesthetics, creating interfaces that are not only appealing but also enchanting heart to users.
+
+
+
+
+#ABOUT ME:
+
+Frontend developer adalah seorang profesional dalam pengembangan web yang fokus pada pembuatan dan perancangan tampilan dan antarmuka pengguna dari sebuah situs web. Mereka menggunakan bahasa seperti HTML, CSS, dan JavaScript untuk menciptakan pengalaman web yang interaktif dan menarik bagi pengguna. Dan aku adalah seorang Frontend Developer yang menciptakan dunia digital yang indah, dengan koding sebagai kuasaku dan antarmuka pengguna sebagai kanvasnya. Yuk cek seberapa besar keahlianku disini!
+
+A frontend developer is a professional in web development who focuses on creating and designing the appearance and user interface of a website. They use languages such as HTML, CSS, and JavaScript to create interactive and engaging web experiences for users. And I am a Frontend Developer creating beautiful digital worlds, with coding as my specialty and user interfaces as the canvas. Come see how much I can do here!
+
+
+
+
+#EDUCATION:
+
+>SMPN
+2015-2018
+Di masa SMP, pengalaman paling menarik saya adalah menjadi gamer aktif dalam squad yang solid dan berhasil memenangkan turnamen prestisius.
+
+In junior high school, my most exciting experience was being an active gamer in a solid squad and successfully winning a highly prestigious tournament.
+
+>SMAN
+2018-2021
+SMAN saya aktif di organisasi OSIS. Mengembangkan bakat desain kreatif, memiliki suara memukau dan bakat lainnya.
+
+My high school is actively involved in OSIS. I have been developing my creative design skills, possess a captivating voice, and other talents.
+
+>AKADEMI
+2021-Now
+Saat ini telah meraih berbagai pengalaman berharga. Menyelesaikan proyek desain, web, dan aplikasi berbasis web.
+
+Currently, I have gained various valuable experiences, including completing design projects, websites development, and web-based applications.
+
+
+
+
+#EXPERIENCE:
+
+>Software Development - ATI TB Jakarta
+Freelance
+Saya telah membuat aplikasi perpustakaan berbasis dekstop untuk instansi akademi dengan menggunakan bahasa Visual Studio Profesional 2010.
+
+I have developed a desktop-based library application for academic institutions using Visual Studio Professional 2010.
+
+>Web Development - SMK PGRI 16 Jakarta
+Freelance
+Pada pengalaman ini saya mengembangkan website sekolah dengan tools elementor dan Optimasi SEO. Tampilan yang memukau dan fitur yang lengkap.
+
+In this experience, I developed a school website using Elementor and optimized SEO. Creating a stunning design and incorporating comprehensive features.
+
+>Entry Data - PT Sintech Indonesia Power
+Freelance
+Di pengalaman kali ini saya sebagai data entry perushaan kemudian diperintahkan untuk membuat sistem berbasis web untuk asesi.
+
+In this experience, I, as a data entry personnel in the company, was subsequently tasked with creating a web-based asesi system.
